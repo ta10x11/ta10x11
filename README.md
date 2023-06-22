@@ -3,3 +3,4 @@
 
 # My skills and info 
 ## Frontend
+<a href="https://www.linkedin.com/in/ta10x11" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" height="30px" width="110px"/></a>
